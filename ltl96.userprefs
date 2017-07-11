@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{ACB37454-A26F-4E4E-98EA-5C2F2B6D4EC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ltl96.Droid PreferredExecutionTarget="Android.Nexus_5X_API_24" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ltl96/HomePage.xaml">
+    <Files>
+      <File FileName="ltl96/ltl96.cs" Line="11" Column="39" />
+      <File FileName="ltl96/MainPage.xaml" Line="2" Column="187" />
+      <File FileName="ltl96/MainPage.xaml.cs" Line="11" Column="10" />
+      <File FileName="ltl96/MainPageCS.cs" Line="24" Column="31" />
+      <File FileName="ltl96/HomePage.xaml" Line="7" Column="1" />
+      <File FileName="ltl96/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ltl96/HomePageCS.cs" Line="10" Column="10" />
+      <File FileName="Droid/MainActivity.cs" Line="20" Column="13" />
+      <File FileName="ltl96/EducationPage.xaml" Line="2" Column="152" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ltl96.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.4b9adeebe651f9246d2e812d7791ae1f0391b66f" />
+</Properties>

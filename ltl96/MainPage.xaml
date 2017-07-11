@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ltl96;assembly=ltl96" x:Class="ltl96.MainPage" Title="Leonard Wong's Portfolio">
+    <NavigationPage Icon="home.png">
+        <x:Arguments>
+            <local:HomePage />
+        </x:Arguments>
+        <NavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String">
+                <On Platform="iOS">Home</On>
+            </OnPlatform>
+        </NavigationPage.Title>
+        </NavigationPage>
+
+    <NavigationPage Icon="education.png">
+        <x:Arguments>
+            <local:EducationPage />
+        </x:Arguments>
+        <NavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String">
+                <On Platform="iOS">Education</On>
+            </OnPlatform>
+        </NavigationPage.Title>
+        </NavigationPage>
+
+        <NavigationPage Icon="job.png">
+        <x:Arguments>
+            <local:JobPage />
+        </x:Arguments>
+        <NavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String">
+                <On Platform="iOS">Job Experience</On>
+            </OnPlatform>
+        </NavigationPage.Title>
+        </NavigationPage>
+
+    <NavigationPage Icon="skills.png">
+        <x:Arguments>
+            <local:SkillsPage />
+        </x:Arguments>
+        <NavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String">
+                <On Platform="iOS">Skills</On>
+            </OnPlatform>
+        </NavigationPage.Title>
+        </NavigationPage>
+
+    <NavigationPage Icon="more.png">
+        <x:Arguments>
+            <local:MorePage />
+        </x:Arguments>
+        <NavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String">
+                <On Platform="iOS">More</On>
+            </OnPlatform>
+        </NavigationPage.Title>
+        </NavigationPage>
+    
+</TabbedPage>
+
